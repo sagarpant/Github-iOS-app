@@ -37,6 +37,14 @@ On Clicking the Name Repo button, the user is routed to the screen to enter the 
 
 https://user-images.githubusercontent.com/22414609/184226208-f16ed01e-e973-421d-9eb5-4d8510007aee.mov
 
+## Closed Pull Request List
+Click on some repository to view all the closed pull requests.
+The Table view shows information about who created the repository (User Image and User login), the pull request title, its creation and close time.
+
+|Orientation| Light| Dark|
+|-------|----------|-----------|
+|Portrait| ![Simulator Screen Shot - iPhone 12 - 2022-08-12 at 01 25 25](https://user-images.githubusercontent.com/22414609/184227972-0cf4b7d6-d02d-4fc3-890e-62ff2dd119c8.png)| ![Simulator Screen Shot - iPhone 12 - 2022-08-12 at 01 25 58](https://user-images.githubusercontent.com/22414609/184228192-b2969414-1e1b-426e-9ba6-b52ea1e8040f.png)| 
+|LandScape| ![Simulator Screen Shot - iPhone 12 - 2022-08-12 at 01 25 49](https://user-images.githubusercontent.com/22414609/184228082-4cffd6e1-4983-4fec-b183-94de95ed9180.png)| ![Simulator Screen Shot - iPhone 12 - 2022-08-12 at 01 26 01](https://user-images.githubusercontent.com/22414609/184228133-9a365a73-823a-4adb-b7b9-1a5013be95fe.png)|
 
 ## Architecture
 <h3>MVVM</h3>
@@ -56,3 +64,9 @@ It also uses following dependencies
 - Firebase - For powering Github OAuth.
 - Lottie - For powering the animation in the name repo screen.
 - Kingfisher - For image loading.
+
+
+
+
+
+
