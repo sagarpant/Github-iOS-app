@@ -21,7 +21,11 @@ For understanding OAuth Check
 
 OAuth Gif
 
-![184221811-e7ddf509-67b4-4913-819b-10a72b48895b_AdobeExpress](https://user-images.githubusercontent.com/22414609/184222408-a1825d22-608a-4380-af87-e7220789c4aa.gif)
+
+
+https://user-images.githubusercontent.com/22414609/184225815-10311714-5be6-4623-9f88-4dc66b7ff6e6.mov
+
+
 
 
 After Successful authorization the user is presented with a list of public repositories from his account.
