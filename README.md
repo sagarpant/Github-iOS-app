@@ -23,6 +23,8 @@ OAuth Gif
 
 ![184221811-e7ddf509-67b4-4913-819b-10a72b48895b_AdobeExpress](https://user-images.githubusercontent.com/22414609/184222408-a1825d22-608a-4380-af87-e7220789c4aa.gif)
 
+<img src="https://user-images.githubusercontent.com/22414609/184222408-a1825d22-608a-4380-af87-e7220789c4aa.gif" width="250" height="250"/> 
+
 
 After Successful authorization the user is presented with a list of public repositories from his account.
 ScreenShots from the Repository List Screen
@@ -32,13 +34,28 @@ ScreenShots from the Repository List Screen
 |Landscape| ![simulator_screenshot_6442BCE2-E894-4C2E-A719-94FD2160AFB0](https://user-images.githubusercontent.com/22414609/184222870-9f9c52d8-1cad-4d1b-a16b-e5eb8f4c348b.png)| ![simulator_screenshot_7932BA7C-0185-41DB-B5E2-C2A875C6D3B7](https://user-images.githubusercontent.com/22414609/184222771-f7ff81a0-d661-44c1-8a53-b3af43c02bcf.png)|
 
 
+##Name Repository Combination
+On Clicking the Name Repo button, the user is routed to the screen to enter the user name 
+
+https://user-images.githubusercontent.com/22414609/184223851-21b7fd0e-22a2-4364-a3d3-f9ac06e1563d.mov
 
 
 
+## Architecture
+<h3>MVVM</h3>
+Currently the app follows <a href= "https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel">MVVM</a> Architecture.
 
+<img width="498" alt="Screenshot 2021-11-02 at 10 45 57 PM" src="https://user-images.githubusercontent.com/71034915/139913742-1bc999d0-f002-45d9-b852-a60e53df97ad.png">
 
+<h3>Protocol Oriented Programming</h3>
+<a href="https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started">Protocol oriented</a> is a programming paradigm which suggests to write code based on abstraction. Classes, structs enums should implement an protocol/ interface.
 
+##Package Manager
+The Project uses SPM (Swift Package Manager) for dependency management, so no more .xcworkspaces!!
+It also uses following dependencies 
 
+<img width="593" alt="Screenshot 2022-08-12 at 1 06 42 AM" src="https://user-images.githubusercontent.com/22414609/184224699-55d277bf-8622-4d1b-a14b-09f5ab017e3d.png">
 
-
-
+- Firebase - For powering Github OAuth.
+- Lottie - For powering the animation in the name repo screen.
+- Kingfisher - For image loading.
