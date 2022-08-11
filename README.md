@@ -21,11 +21,7 @@ For understanding OAuth Check
 
 OAuth Gif
 
-
-
 https://user-images.githubusercontent.com/22414609/184225815-10311714-5be6-4623-9f88-4dc66b7ff6e6.mov
-
-
 
 
 After Successful authorization the user is presented with a list of public repositories from his account.
@@ -39,8 +35,7 @@ ScreenShots from the Repository List Screen
 ## Name Repository Combination
 On Clicking the Name Repo button, the user is routed to the screen to enter the user name 
 
-https://user-images.githubusercontent.com/22414609/184223851-21b7fd0e-22a2-4364-a3d3-f9ac06e1563d.mov
-
+https://user-images.githubusercontent.com/22414609/184226208-f16ed01e-e973-421d-9eb5-4d8510007aee.mov
 
 
 ## Architecture
