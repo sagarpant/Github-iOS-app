@@ -47,7 +47,7 @@ Currently the app follows <a href= "https://en.wikipedia.org/wiki/Model%E2%80%93
 <h3>Protocol Oriented Programming</h3>
 <a href="https://www.raywenderlich.com/6742901-protocol-oriented-programming-tutorial-in-swift-5-1-getting-started">Protocol oriented</a> is a programming paradigm which suggests to write code based on abstraction. Classes, structs enums should implement an protocol/ interface.
 
-##Package Manager
+## Package Manager
 The Project uses SPM (Swift Package Manager) for dependency management, so no more .xcworkspaces!!
 It also uses following dependencies 
 
